@@ -3,3 +3,4 @@
 ### This is subtext
 ** This is a bullet
 ** This is a another bullet
+*** This is a third bullet
